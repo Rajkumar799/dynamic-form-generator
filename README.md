@@ -22,7 +22,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/dynamic-form-generator.git
+git clone https://github.com/Rajkumar799/dynamic-form-generator.git
 cd dynamic-form-generator
 ```
 
